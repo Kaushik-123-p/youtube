@@ -1,5 +1,5 @@
 
-when you connect with database then then many time fatch the problems 
+when you connect with database  then many time fatch the problems 
 so avoide to fetch tis problems uesd try and catch or promises and also take care of async await
 
 database is always the another continate:- means database are store in another continate

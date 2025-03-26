@@ -1,0 +1,27 @@
+
+
+
+    HTTP Status Code
+-----------------------
+1xx Infroational
+2xx Success
+3xx Redirection
+4xx Client error
+5xx Server error
+
+
+Most common used Status
+------------------------
+100 Continue
+102 Processing
+200 ok
+201 Created
+202 Accepted
+307 Tempolay Redirected
+308 Permanant Redirected
+400 Bad Request
+401 Unauthorized
+402 Payload Required
+404 Not Found
+500 Internal Server error
+504 Gateway Time Out
