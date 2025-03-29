@@ -1,7 +1,7 @@
 
-when you connect with database  then many time fatch the problems 
+when you connect with database  then many time fatch  the problems 
 so avoide to fetch tis problems uesd try and catch or promises and also take care of async await
 
 database is always the another continate:- means database are store in another continate
 
-when you used IFEE function then you first uesd semicolu(;) then write IFEE function becouse previously used any statement that statement does not and with semicolum then it effect to the IFEE function
+when you used IIFE function then you first uesd semicolu(;) then write IIFE function becouse previously used any statement that statement does not and with semicolum then it effect to the IIFE function

@@ -168,7 +168,7 @@ Payload – Contains user data (e.g., userId, email).
 Signature – A cryptographic signature to ensure the token is not tampered with.
 
 =============================================================================================
-we can not directly encrypt we used to mongoose hooks
+we can not directly encrypt the code if we want ro encrpt the code then w we used to mongoose hooks
 pre
 post
 etc...
@@ -213,7 +213,7 @@ post("findOneAndUpdate")	Log changes after an update.
 
 
 -------------------------------------------------------------------
-when you used mngoose hooks inthis can not used callback function or arrow function becouse of arrow functionncan not have this keyword reference and its can not  know abount contenx
+when you used mngoose hooks in this can not used callback function or arrow function becouse of arrow functionncan not have this keyword reference and its can not  known about contenx
 
 prefer to used simple function function declaration
 

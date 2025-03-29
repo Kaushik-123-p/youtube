@@ -77,11 +77,11 @@ const videoSchema = new mongoose.Schema(
             default: true,
         },
         owner: {
-            type: mongoose.Schema.Types, ObjectId,
+            type: mongoose.Schema.Types.ObjectId,
             ref: "User"
         }
 
-    },
+    },  
     {
         timestamps: true
     }
