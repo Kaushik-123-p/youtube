@@ -18,7 +18,7 @@ app.use(cookieParser())     // we can access and set usrs browers coookies  thro
 
 // --------------------------------------------------------------------
 // Router import
-import userRouter from "./routes/user.routes.js"
+import router from "./routes/user.routes.js"
 
 
 // Router Declartion
@@ -29,7 +29,7 @@ import userRouter from "./routes/user.routes.js"
 
 
 
-app.use("/api/v1/users", userRouter)
+app.use("/api/v1/users", router)
 
 
 // http://localhost:8000/api/v1/users/
