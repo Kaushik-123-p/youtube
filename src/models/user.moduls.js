@@ -46,7 +46,7 @@ const userSchema = new mongoose.Schema(
             type:String,
             required:[true, "password is required"]
         },
-        refteshToken:{
+        refreshToken:{
 
             // The refreshToken field is used in JWT authentication to store a long-lived token that helps users stay logged in without requiring them to enter credentials again.
 
